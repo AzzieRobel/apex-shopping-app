@@ -1,5 +1,5 @@
 # apex-shopping-app
-Shopping App created by Naman Barkiya
+Shopping App created by Aizze Robbel
 
 # Setting up development environment:
 
